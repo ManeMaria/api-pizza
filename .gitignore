@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+.env
+.vscode
+yarn-error.log
+yarn.lock
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+.env
